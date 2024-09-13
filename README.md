@@ -6,7 +6,7 @@ I'm a backend developer and Python developer, focused on creating efficient and 
 
 let's build something awesome together!
 
-# My Socials
+## My Socials
 <a href="https://www.linkedin.com/in/mohrez-rahimi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
 </a>
