@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there! 👋
+## Hi there! 👋🏼
 
 I'm a backend developer and Python developer, focused on creating efficient and scalable web applications and Python apps. I'm currently learning Django to enhance my backend skills and have a strong interest in networking security. I enjoy learning and taking on new challenges with the aim of addressing real-world problems.
 
