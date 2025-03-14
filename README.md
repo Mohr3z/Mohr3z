@@ -1,9 +1,8 @@
 <div align="center">
 
-## Hi there! 👋🏼
+## Hi there! 
 
-I'm a backend developer and Python developer, focused on creating efficient and scalable web applications and Python apps. I'm currently learning Django to enhance my backend skills and have a strong interest in networking security. I enjoy learning and taking on new challenges with the aim of addressing real-world problems.
-
+I'm a software developer with a focus on building efficient and scalable applications. I have a strong interest in network security and enjoy tackling new challenges to solve real-world problems.
 let's build something awesome together!
 
 ## My Socials
@@ -22,7 +21,6 @@ let's build something awesome together!
 
 
 ## My Skills
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
