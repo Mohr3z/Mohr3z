@@ -7,24 +7,28 @@ let's build something awesome together!
 
 ## My Socials
 <a href="https://www.linkedin.com/in/mohrez-rahimi/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=invision&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.insragram.com/in/mohrez.rahimi/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://t.me/mohr3z" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://Mohrez.net/" target="_blank">
-  <img src="https://img.shields.io/badge/Mohrez.net-0A66C2?style=for-the-badge" alt="LinkedIn">
-</a>
+<!-- <a href="https://Mohr3z.ir/" target="_blank">
+  <img src="https://img.shields.io/badge/Mohr3z.ir-0A66C2?style=for-the-badge" alt="LinkedIn">
+</a> -->
 
 
 
 ## My Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![cplusplus](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![Css3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
