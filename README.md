@@ -10,7 +10,7 @@ let's build something awesome together!
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=invision&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://www.insragram.com/mohrez.rahimi/" target="_blank">
+<a href="https://www.insragram.com/mohrez.rahimi" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn">
 </a>
 
